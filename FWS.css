@@ -1,7 +1,7 @@
 
 .logo-int{
     display: flex;
-    justify-content: space-between;
+    
     /*background-color: rgba(60, 67, 61, 0.074);*/
 
 }
@@ -23,6 +23,7 @@
   font-style: normal;
     font-size: 50px;
     padding-top: 5PX;
+    padding-left: 550px;
 }
 .navbar{
     display: flex;
@@ -34,4 +35,26 @@
 .insta-image{
     height: 30px;
     width: 30px;
+    padding-left: 550px;
+    padding-top: 25px;
+}
+.face-img{
+     height: 30px;
+    width: 30px;
+    padding-left: 10px;
+    padding-top: 25px;
+}
+.twitter-img{
+     height: 30px;
+    width: 30px;
+        padding-left: 10px;
+        padding-top: 25px;
+
+}
+.linkdin-img{
+     height: 30px;
+    width: 30px;
+        padding-left: 10px;
+        padding-top: 25px;
+
 }
