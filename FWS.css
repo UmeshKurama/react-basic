@@ -23,33 +23,34 @@
   font-style: normal;
     font-size: 50px;
     padding-top: 5PX;
-    padding-left: 550px;
+    padding-left: 625px;
+    padding-right: 10px;
 }
 
 .insta-image{
     height: 30px;
     width: 30px;
-    padding-left: 550px;
-    padding-top: 25px;
+    padding-left: 700px;
+    padding-top: 35px;
 }
 .face-img{
      height: 30px;
     width: 30px;
-    padding-left: 10px;
-    padding-top: 25px;
+    padding-left: 15px;
+    padding-top: 35px;
 }
 .twitter-img{
      height: 30px;
     width: 30px;
-        padding-left: 10px;
-        padding-top: 25px;
+        padding-left: 15px;
+        padding-top: 35px;
 
 }
 .linkdin-img{
      height: 30px;
     width: 30px;
-        padding-left: 10px;
-        padding-top: 25px;
+        padding-left: 15px;
+        padding-top: 35px;
 
 }
 .navbar{
