@@ -1,20 +1,20 @@
 
+html{
+    scroll-behavior: smooth;
+    
+}
 .logo-int{
     display: flex;
     
     /*background-color: rgba(60, 67, 61, 0.074);*/
 
 }
+
 .logo-image{
     padding-top: -10px;
     height: 120px;
     width: 300px;
 }
-/*.search{
-    padding-top:65px;
-    padding-right: 30px;
-  
-}*/
 .market{
     color:#070707;
     
@@ -83,18 +83,195 @@
     text-decoration: none;
     color: #4284f5;
 }
+.mutual:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.mutual{
+    text-decoration: none;
+    color: #4284f5;
+}
+.gold:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.gold{
+    text-decoration: none;
+    color: #4284f5;
+}
+.home:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.home{
+    text-decoration: none;
+    color: #4284f5;
+}
 .sectors1{
     justify-content: space-between;
     display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
     
 }
 .sectors2{
     justify-content: space-between;
     display: flex;
+    margin-left: 60px;
+    margin-right: 90px;
     
 }
 .sectors3{
     justify-content: space-between;
     display: flex;
+    margin-left: 40px;
+    margin-right: 80px;
     
+}
+.sectors4{
+    justify-content: space-between;
+    display: flex;
+    margin-left: 30px;
+    margin-right: 80px;
+    
+}
+.it:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.it {
+    text-decoration: none;
+    color: #4284f5;
+}
+.fin:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.fin {
+    text-decoration: none;
+    color: #4284f5;
+}
+.health:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.health {
+    text-decoration: none;
+    color: #4284f5;
+}
+.goods:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.goods {
+    text-decoration: none;
+    color: #4284f5;
+}
+.auto:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.auto {
+    text-decoration: none;
+    color: #4284f5;
+}
+.energy:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.energy{
+    text-decoration: none;
+    color: #4284f5;
+}
+.metal:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.metal{
+    text-decoration: none;
+    color: #4284f5;
+}
+.cement:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.cement {
+    text-decoration: none;
+    color: #4284f5;
+}
+.consumer:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.consumer {
+    text-decoration: none;
+    color: #4284f5;
+}
+.tele:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.tele {
+    text-decoration: none;
+    color: #4284f5;
+}
+.real:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.real {
+    text-decoration: none;
+    color: #4284f5;
+}
+.industry:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.industry {
+    text-decoration: none;
+    color: #4284f5;
+}
+.media:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.media {
+    text-decoration: none;
+    color: #4284f5;
+}
+.chemical:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.chemical {
+    text-decoration: none;
+    color: #4284f5;
+}
+
+
+.defence:hover{
+    color: #4284f5;
+    font-weight: 600;
+
+}
+.defence {
+    text-decoration: none;
+    color: #4284f5;
 }
