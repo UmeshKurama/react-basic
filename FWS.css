@@ -3,6 +3,12 @@ html{
     scroll-behavior: smooth;
     
 }
+/* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}*/
+
 .logo-int{
     display: flex;
     
@@ -65,6 +71,16 @@ html{
 .content{
     font-size: 20px;
     line-height: 2;
+}
+.heads{
+    text-align:center;
+   color: #4284f5;
+    size: 30px;
+}
+.headm{
+    text-align:center;
+   color: #4284f5;
+   size: 30px;
 }
 .SM-img{
 
